@@ -1,3 +1,4 @@
+![logo](https://github.com/waqarwasif/waqarwasif/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Syed Waqar Wasif</h1>
 <h3 align="center">Studying Computer and Information Systems (CIS) Engineering at NEDUET. Current Languages: Python, C, CPP, HTML, CSS Currently focused domain : AI/ML</h3>
 
