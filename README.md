@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence : Machine Learning(Data Science)**
 
-- 🔭 I’m currently working on [AI Smart Meter Behavioral Advisor](https://github.com/waqarwasif/AI_SMART_METER)
+- 🔭 I’m currently working on [Intern Performance Predictior](https://github.com/waqarwasif/Intern-Performance-Prediction-)
 
 
 - 👉 Upcoming Semester Project [Library Resource Management System](https://github.com/alifaizyab8/CPP-library-resource-management-system)
