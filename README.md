@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Intern Performance Predictior](https://github.com/waqarwasif/Intern-Performance-Prediction-)
 
 
-- 👉 Upcoming Semester Project [Library Resource Management System](https://github.com/alifaizyab8/CPP-library-resource-management-system)
+- 👉 Last Semester Project [Library Resource Management System](https://github.com/alifaizyab8/CPP-library-resource-management-system)
 
 - 📧 How to reach me **https://linktr.ee/waqarwasif**
 
