@@ -1,5 +1,8 @@
 ![logo](https://github.com/waqarwasif/waqarwasif/blob/main/banner.png)
 <div align="center">
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syed%20Waqar%20Wasif&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20CS%20Engineering%20@%20NEDUET&descAlignY=60&descSize=16&descColor=8b949e"/>
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
